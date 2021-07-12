@@ -1,3 +1,5 @@
+![](https://gitlab.com/projeto-leitor-hidrometro/shd-dashboard/badges/main/pipeline.svg)
+
 # shd-dashboard
 
 Protótipo de dashboard do projeto de Sistema de Hidômetros Digitais.
