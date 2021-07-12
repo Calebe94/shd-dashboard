@@ -6,14 +6,13 @@ stages:
 
 before_script:
     - apt update
-    - apt install -y lftp openssh-client build-essential wget unzip cpio pandoc
+    - apt install -y lftp openssh-client build-essential wget cpio pandoc
+    - wget https://gitlab.com/Calebe94/ssg5-pandoc/-/raw/main/ssg5
+    - mv ssg5 /usr/bin/
+    - chmod +x /usr/bin/ssg5
 
 build:
     stage: build
-    before_script:
-        - wget https://gitlab.com/Calebe94/ssg5-pandoc/-/raw/main/ssg5
-        - mv ssg5 /usr/bin/
-        - chmod +x /usr/bin/ssg5
     script:
         - ssg5 "dashboard/" "public/" "$PAGE_TITLE" "$PAGE_DOMAIN"
     artifacts:
