@@ -1,0 +1,33 @@
+image: debian:buster
+
+stages:
+    - build
+    - deploy
+
+before_script:
+    - apt update
+    - apt install -y lftp openssh-client build-essential wget unzip cpio pandoc
+
+build:
+    stage: build
+    before_script:
+        - wget https://gitlab.com/Calebe94/ssg5-pandoc/-/raw/main/ssg5
+        - mv ssg5 /usr/bin/
+        - chmod +x /usr/bin/ssg5
+    script:
+        - ssg5 "dashboard/" "public/" "$PAGE_TITLE" "$PAGE_DOMAIN"
+    artifacts:
+        paths:
+            - public/
+    only:
+        - main
+
+deploy:
+    stage: deploy
+    script:
+        - lftp sftp://$FTP_USER:$FTP_PASSWORD@$FTP_HOST -p 22  -e "set sftp:auto-confirm yes;mirror -R ./public/ ./www/; bye"
+    artifacts:
+        paths:
+            - public/
+    only:
+        - main
