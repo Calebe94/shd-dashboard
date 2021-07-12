@@ -9,6 +9,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Added
 
+* Added Gitlab CI/CD build and deploy pipelines;
+
 ### Fixed
 
 ### Changed
