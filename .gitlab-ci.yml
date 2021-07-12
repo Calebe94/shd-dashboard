@@ -14,6 +14,7 @@ before_script:
 build:
     stage: build
     script:
+        - mkdir public/
         - ssg5 "dashboard/" "public/" "$PAGE_TITLE" "$PAGE_DOMAIN"
     artifacts:
         paths:
