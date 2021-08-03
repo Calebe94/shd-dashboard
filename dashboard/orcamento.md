@@ -1,7 +1,9 @@
 <div class="container">
-## Orçamento dos Protótipos
 
-### Escravo
+<center>
+## Preço dos Protótipos
+
+### Periférico
 
 | Quantidade | Item                                           | Valor    | Local  | Descrição                                              | Imagem                                                                                                                                 |
 |:----------:|:----------------------------------------------:|:--------:|:------:|:------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------------------------------:|
@@ -12,8 +14,10 @@
 | 2          | Barra De Pino Fêmea x 40 pinos                 | R$ 10    | Brasil | Barra de Pino Fêmea                                    | <img src="https://cdn.awsli.com.br/600x700/468/468162/produto/19414228/barra-de-pinos-femea-1x40-180-a1bd609b.jpg" width="200px">      |
 | 1          | Barra de pinos Macho                           | R$ 10    | Brasil | Barra de pino macho                                    | <img src="https://cdn.awsli.com.br/600x700/468/468162/produto/19413951/barra-de-pinos-macho-1x40x145-90-1978e6f6.jpg" width="200px">   |
 | Total (sem frete) | R$ 155,50 |
+</center>
 
-### Mestre
+<center>
+### Controlador
 
 | Quantidade | Item                                           | Valor    | Local  | Descrição                                              | Imagem                                                                                                                     |
 |:----------:|:----------------------------------------------:|:--------:|:------:|:------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------------------:|
@@ -24,4 +28,5 @@
 | 2          | Barra De Pino Fêmea x 40 pinos   | R$ 10     | Brasil | Barra de Pino Fêmea                                    | <img src="https://cdn.awsli.com.br/600x700/468/468162/produto/19414228/barra-de-pinos-femea-1x40-180-a1bd609b.jpg" width="200px">       |
 | 1          | Barra de pinos Macho             | R$ 10     | Brasil | Barra de pino macho                                    | <img src="https://cdn.awsli.com.br/600x700/468/468162/produto/19413951/barra-de-pinos-macho-1x40x145-90-1978e6f6.jpg" width="200px">    |
 | Total (sem frete) | R$ 360,97 |
+</center>
 </div>
