@@ -1,17 +1,19 @@
 <div class="container">
+
 # Comparação de soluções
 
 ## Projetos existentes
 
+
 Há no mercado livre um leitor de Hidrômetro Digital que publica as leituras via WiFi.
 
-![](https://http2.mlstatic.com/D_NQ_NP_2X_853746-MLB45090632015_032021-F.webp)
+<img src="https://http2.mlstatic.com/D_NQ_NP_2X_853746-MLB45090632015_032021-F.webp" width="400px">
 
 A empresa que fabrica o produto é a [IE Tecnologia] e o preço do produto gira em torno de **R$ 450**. 
 
 O Produto acompanha um hidrômetro de saída pulsada.
 
-![](https://http2.mlstatic.com/D_NQ_NP_2X_869220-MLB45090632014_032021-F.webp)
+<img src="https://http2.mlstatic.com/D_NQ_NP_2X_869220-MLB45090632014_032021-F.webp" width="400px">
 
 ### Vantagens
 
@@ -34,6 +36,7 @@ A diferença da nossa solução é que utilizamos de GSM para transferir as leit
 Não necessitando de uma rede wifi para funcionar.
 
 A nossa solução é perfeita para condomínios e prédios pois é necessário somente um módulo GSM para gerenciar até 127 dispositivos de leitura.
+
 
 [IE Tecnologia]: https://ietecnologia.com/sm-wa/
 
