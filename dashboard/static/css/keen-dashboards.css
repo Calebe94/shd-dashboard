@@ -74,6 +74,15 @@ h6 {
   font-size: 12px;
 }
 
+table, td, th {
+  border: 1px solid black;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
 .text-muted {
   color: #777;
 }

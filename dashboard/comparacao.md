@@ -1,4 +1,4 @@
-<div class="container">
+<div style="width:800px; margin: auto;" class="container">
 
 # Comparação de soluções
 

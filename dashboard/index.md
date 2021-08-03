@@ -1,4 +1,4 @@
-<div class="container">
+<div style="width:800px; margin: auto;" class="container">
 
 <center>
 # Protótipo
@@ -11,7 +11,7 @@
 </center>
 
 Os nossos hardwares realizam a leitura do fluxo de água utilizando o sensor de [YF-S201]. 
-Através do fluxo de água, calculamos quantos litros de água passaram pelo sensor.
+Através do fluxo de água, calculamos quantos litros passaram pelo sensor.
 
 <center>
 <img src="https://www.electronicscomp.com/image/cache/catalog/water-flow-sensor-0.5-inch-yf-s201-800x800.jpg" width="300px">
@@ -49,9 +49,27 @@ Sempre que o dispositivo for ligado, uma rede Wifi será acionada com o nome `sh
 
 Após estabelecer conexão com a rede, é possível acessar a página de configurações do dispositivo através do IP `http://192.168.4.1`.
 
+<center>
+| <img src="media/front_page.png" width="400px"> |
+|:----------------------------------------------:|
+| *Página principal da aplicação web* |
+</center>
+
 A página apresentada possui informações das configurações disponíveis e que podem ser realizadas na aba `Configurações`.
 
+<center>
+| <img src="media/settings_page.png" width="400px"> |
+|:----------------------------------------------:|
+| *Página de configurações da aplicação web* |
+</center>
+
 Na aba `Leituras` o usuário poderá acompanhar a leitura do sensor (litros de água) em tempo real.
+
+<center>
+| <img src="media/leitura_page.png" width="400px"> |
+|:----------------------------------------------:|
+| *Página de leitura da aplicação web* |
+</center>
 
 [platformio]: https://docs.platformio.org/en/latest/core/installation.html
 [pandoc]: https://pandoc.org/

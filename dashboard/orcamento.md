@@ -1,4 +1,4 @@
-<div class="container">
+<div style="width:800px; margin: auto;" class="container">
 
 <center>
 ## Preço dos Protótipos
@@ -7,7 +7,7 @@
 
 | Quantidade | Item                                           | Valor    | Local  | Descrição                                              | Imagem                                                                                                                                 |
 |:----------:|:----------------------------------------------:|:--------:|:------:|:------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------------------------------:|
-| 1          | Módulo de desenvolvimento ESP32 DOIT Devkit V1 | R$ 41,49 | Brasil | Microcontrolador                                       | <img src="http://esp32.net/images/DOIT/ESP32-DevKit-V1/DOIT_ESP32-DevKit-V1_Top5.jpg" width="200px">                                   |
+| 1          | Módulo de desenvolvimento ESP32 DOIT Devkit V1 | R$ 41,49 | Brasil | Microcontrolador                                       | <img src="https://images-eu.ssl-images-amazon.com/images/I/51wphuHrrcL.jpg" width="200px">                                             |
 | 1          | Módulo RS485                                   | R$ 36    | Brasil | Módulo para transmissão de dados entre os dispositivos | <img src="https://hallroad.org/images/watermarked/detailed/8/MAX485_RS485_TRANSCEIVER_MODULE_in_pakistan.jpg" width="200px">           |
 | 1          | Sensor de Fluxo YF-S201                        | R$ 38    | Brasil | Sensor de fluxo                                        | <img src="https://circuit.pk/wp-content/uploads/2019/05/FlowSensor-YF-S201-water-flow-sensor.jpg" width="200px">                       |
 | 1          | Placa perfurada 10x10                          | R$ 20    | Brasil | Placa perfurada                                        | <img src="https://cdn.awsli.com.br/600x450/853/853129/produto/32757943/02b028b9f1.jpg" width="200px">                                  |
