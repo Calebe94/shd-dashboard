@@ -12,17 +12,36 @@
 Meu nome é Edimar Calebe Castanho (Calebe94), e sou Analista de Sistemas Embarcados no [Grupo T2I].
 </center>
 
-<p>
-<ul>
-<a href="https://t.me/calebe94"><i class="fab fa-telegram-plane"></i></a>
-<a href="mailto:calebe94@disroot.org"><i class="fas fa-envelope"></i></a>
-<a href="https://github.com/Calebe94"><i class="fab fa-github"></i></a>
-<a href="https://gitlab.com/Calebe94"><i class="fab fa-gitlab"></i></a>
-<a href="https://twitter.com/calebe94"><i class="fab fa-twitter"></i></a>
-</ul>
-</p>
+<br>
 
-<i class="fab fa-twitter"></i>
+<center>
+#### Contatos
+</center>
+
+<br>
+
+<center>
+<p>
+    <ul>
+        <a href="https://t.me/calebe94">
+            <img src="./media/telegram.svg" width="50px">
+        </a>
+        <a href="mailto:calebe94@disroot.org">
+            <img src="./media/email.svg" width="50px">
+        </a>
+        <a href="https://github.com/Calebe94">
+            <img src="./media/github.svg" width="50px">
+        </a>
+        </a>
+        <a href="https://gitlab.com/Calebe94">
+            <img src="./media/gitlab.svg" width="50px">
+        </a>
+        <a href="https://twitter.com/calebe94">
+            <img src="./media/twitter.svg" width="50px">
+        </a>
+    </ul>
+</p>
+</center>
 
 <meta content="Edimar Calebe Castanho" property="og:title">
 <meta content="Meu nome é Edimar Calebe Castanho (Calebe94), e sou Analista de Sistemas Embarcados no Grupo T2I." property="og:description">
